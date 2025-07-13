@@ -100,7 +100,7 @@ body {
 }
 
 .header {
-  background-image: url("assets/header.jpg");
+  background-image: url("assets/three.webp");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -330,7 +330,7 @@ nav {
 }
 
 .service {
-  background-image: url("assets/service.jpg");
+  background-image: url("assets/one.gif");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -432,7 +432,7 @@ nav {
     minmax(1rem, 1fr)
     minmax(0, var(--max-width))
     minmax(1rem, 1fr);
-  background-image: url("./assets/TP_iStock_1254859968_ss.jpg");
+  background-image: url("./assets/build.gif");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
